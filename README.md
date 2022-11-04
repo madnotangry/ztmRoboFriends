@@ -1,5 +1,7 @@
 # ztmRoboFriends
 
+This project was created by following the ZeroToMastery Web Developer stuff for React.
+All of the rest of the readme was automatically created by React.
 
 ## Getting Started with Create React App
 
